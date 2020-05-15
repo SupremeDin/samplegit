@@ -2,11 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 //here is what i add! show yourself
-struct array { 
-	int size;
-	int used;
-	int *arr;
-};
+
 
 void dump(struct array *array)
 {
