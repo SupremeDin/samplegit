@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-struct array {
+struct array { //changes
 	int size;
 	int used;
 	int *arr;
