@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-struct array { //changes
+//here is what i add! show yourself
+struct array { 
 	int size;
 	int used;
 	int *arr;
